@@ -136,17 +136,6 @@ password_manager/
 
 </div>
 
----
-
-## 📸 **Screenshots**
-
-<div align="center">
-  <img src="https://via.placeholder.com/600x400/1e88e5/ffffff?text=🔐+Login+Screen" alt="Login Screen" width="45%">
-  <img src="https://via.placeholder.com/600x400/43a047/ffffff?text=🗂️+Password+Manager" alt="Main Interface" width="45%">
-</div>
-
----
-
 
 ## 👨‍💻 **Author**
 
