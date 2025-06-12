@@ -19,15 +19,14 @@
 
 <table>
 <tr>
-<td width="50%">
-</td>
+
 <td width="50%">
 
 ### 💻 **User Experience**
 - 🎨 **Modern Tkinter GUI**
 - 👤 **Multi-user support**
 
-</td>
+
 </tr>
 </table>
 
@@ -153,10 +152,9 @@ password_manager/
 
 <div align="center">
   
-  **Your Name**
+  **WrackerTony**
   
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WrackerTony)
   
 </div>
 
