@@ -65,27 +65,6 @@
 
 </div>
 
----
-
-## 🏗️ **Architecture Overview**
-
-```mermaid
-graph TD
-
-    A --> C[🗄️ Database Layer]
-    B --> D[🔒 Encryption Layer]
-    C --> E[📊 SQLite Database]
-    D --> F[🔑 Cryptography Engine]
-    
-    style A fill:#e1f5fe
-    style B fill:#f3e5f5
-    style C fill:#e8f5e8
-    style D fill:#fff3e0
-    style E fill:#fce4ec
-    style F fill:#e0f2f1
-```
-
----
 
 ## 📁 **Project Structure**
 
