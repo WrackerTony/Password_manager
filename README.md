@@ -39,7 +39,7 @@
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/WrackerTony/Password_manager
+   git clone https://github.com/WrackerTony/Password_manager.git
    cd password_manager
    ```
 
